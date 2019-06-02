@@ -7,4 +7,7 @@ function greeter(person: string) {
 
 let user = '666';
 
+
+
+
 document.body.innerHTML = greeter(user);
